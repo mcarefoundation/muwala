@@ -1,0 +1,12 @@
+ ul li{
+    padding-top: 20px;
+    color: black;
+    display: flex;
+    margin-left: 200px;
+    padding-left: 20px;
+    float: left;
+}
+.carousel-inner img{
+    height: 500px;
+   object-fit: cover;
+}
